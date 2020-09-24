@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alexa\\source\\repos\\gamesdb-csharp\\games-db\\games-db\\games-db.csproj": {}
+    "C:\\Users\\Alex\\Source\\Repos\\gamesdb-csharp\\games-db\\games-db\\games-db.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alexa\\source\\repos\\gamesdb-csharp\\games-db\\games-db\\games-db.csproj": {
+    "C:\\Users\\Alex\\Source\\Repos\\gamesdb-csharp\\games-db\\games-db\\games-db.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alexa\\source\\repos\\gamesdb-csharp\\games-db\\games-db\\games-db.csproj",
+        "projectUniqueName": "C:\\Users\\Alex\\Source\\Repos\\gamesdb-csharp\\games-db\\games-db\\games-db.csproj",
         "projectName": "games-db",
-        "projectPath": "C:\\Users\\Alexa\\source\\repos\\gamesdb-csharp\\games-db\\games-db\\games-db.csproj",
-        "packagesPath": "C:\\Users\\Alexa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alexa\\source\\repos\\gamesdb-csharp\\games-db\\games-db\\obj\\",
+        "projectPath": "C:\\Users\\Alex\\Source\\Repos\\gamesdb-csharp\\games-db\\games-db\\games-db.csproj",
+        "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alex\\Source\\Repos\\gamesdb-csharp\\games-db\\games-db\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
